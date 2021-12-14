@@ -16,6 +16,7 @@ PR's are always welcome.
 * [PolyZone](https://github.com/mkafrin/PolyZone)
 * [qtarget](https://github.com/QuantusRP/qtarget)
 * [nh-context](https://github.com/LukeWasTakenn/nh-context)
+* [cd-drawtextui](https://github.com/dsheedes/cd_drawtextui)
 * [Breze-motelroom](https://forum.cfx.re/t/release-motel-room-mlo/846934)
 
 Make sure to follow the detailed installation of the Dependencies
