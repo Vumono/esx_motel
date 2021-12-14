@@ -80,12 +80,12 @@ Citizen.CreateThread(function()
 							label = "Leave apartment",
 							num = 1
 						},
-						{
+						--[[{
 							event = "esx_motel:invite",
 							icon = "fas fa-address-book",
 							label = "Invite",
 							num = 2
-						},
+						},]]
 					},
 					distance = 2
 				})
