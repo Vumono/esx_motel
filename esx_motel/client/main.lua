@@ -387,29 +387,6 @@ function OpenApartmentMenu(apartment, owned)
 		end					    	
 end
 
-function OpenConfirmationMenu(callback)
-	ESX.UI.Menu.CloseAll()
-	ESX.UI.Menu.Open('default', GetCurrentResourceName(), 'confirmation_menu',
-		{
-			title = 'Emin misin?',
-			align = 'top-left',
-			elements = {
-				{label = 'Yes', value = 'yes'},
-				{label = 'No', value = 'no'}
-			}
-		},
-		function(data, menu)
-			menu.close()
-
-			callback(data.current.value == 'yes')
-		end,
-		function(data, menu)
-			menu.close()
-
-			callback()
-		end
-	)
-end
 
 
 function HasApartment(apartment)
