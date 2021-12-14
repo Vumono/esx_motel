@@ -1,5 +1,5 @@
 ### esx_motel
-The motel is free for everybody.
+The motel is free for everybody. 
 
 This resource is created with esx Legacy, other versions **might** not work without modifying the resource.
 It probably needs a lot of optimization, aswell as integration of oxmysql.
