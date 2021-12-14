@@ -5,7 +5,10 @@ This resource is created with esx Legacy, other versions **might** not work with
 It probably needs a lot of optimization, aswell as integration of oxmysql.
 PR's are always welcome.
 
-
+### WIP
+* invite players into home
+* givekeys to other players
+* more different motels
 
 ### Dependencies
 * [es_extended] https://github.com/overextended/es_extended #ox version
